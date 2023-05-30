@@ -1,6 +1,6 @@
 # ReactJS learning
 
-Website Created to Learn ReactJS with JavaScript Mastery Course
+Website created to learn ReactJS with JavaScript Mastery Course
 
 ## Tech stack
 
