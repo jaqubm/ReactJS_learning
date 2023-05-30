@@ -1,6 +1,6 @@
 # ReactJS learning
 
-Description to be added..
+Website Created to Learn ReactJS with JavaScript Mastery Course
 
 ## Tech stack
 
@@ -12,8 +12,8 @@ Description to be added..
 
 ## Live Preview
 
-To be added..
+Available in Portfolio section on: [jaqubm.dev](https://jaqubm.dev)
 
 ## Preview
 
-To be added..
+![ReactJS_learning Preview](/images/ReactJS_learning.webp)
