@@ -12,7 +12,7 @@ Website created to learn ReactJS with JavaScript Mastery Course
 
 ## Live Preview
 
-Available in Portfolio section on: [jaqubm.dev](https://jaqubm.dev)
+[jaqubm.dev/ReactJS_learning](https://jaqubm.dev/ReactJS_learning/)
 
 ## Preview
 
