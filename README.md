@@ -6,7 +6,7 @@ Website created to learn ReactJS with JavaScript Mastery Course
 
 - Vite
 - React
-- Tailwind CSS
+- TailwindCSS
 - JavaScript
 - HTML
 
